@@ -1,6 +1,7 @@
 # amqp-thrift-clj
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to provide an amqp transport layer for thrift
+services.
 
 ## Usage
 
